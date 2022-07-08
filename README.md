@@ -7,12 +7,13 @@ This project is an implementation of a Contract-Net Protocol agents in an attack
 This program is written in C++ language with OpenCV library as the visualization library.
 
 
+### Adviser
+Prof. Daniele Nardi
+
+### How to Run 
 
 > **Requirements:**
 
 > - OpenCV 2.4 or higher</br>
-
-
-### How to Run 
 
 Compile the source using the 'make' command, then execute the CNP file. you can also change the behaviour in the CNP.cpp file
